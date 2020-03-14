@@ -1,0 +1,11 @@
+{ 
+"links": [
+{"source":"0","target":"1","weight":1,"color":"white"},
+{"source":"0","target":"2","weight":1,"color":"yellow"},
+{"source":"0","target":"3","weight":1,"color":"white"},
+{"source":"0","target":"4","weight":1,"color":"yellow"},
+{"source":"0","target":"5","weight":1,"color":"white"}
+]
+
+}
+
